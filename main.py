@@ -27,3 +27,4 @@ class Archer(User):
 wizard1 = Wizard('Merlin', 60)
 print(isinstance(wizard1, object))
 # isinstance(instance, Class)
+#ZTM Python Course 
